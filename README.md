@@ -1,16 +1,8 @@
-# flutter_ui
+# Flutter Awesome UI
 
-A new Flutter project.
+# Screenshots
 
-## Getting Started
+## Authentication
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+<img height="480px" src="screenshots/authentication/Auth1.jpg"> <img height="480px" src="screenshots/authentication/Login1.jpg"> <img height="480px" src="screenshots/authentication/Login2.jpg"> <img height="480px" src="screenshots/authentication/Login3.jpg"> <img height="480px" src="screenshots/authentication/Login4.jpg"> <img height="480px" src="screenshots/authentication/Phone Auth.jpg">  <img height="480px" src="screenshots/authentication/Phone Confirm.jpg"> <img height="480px" src="screenshots/authentication/Sign Up.jpg">
+<img height="480px" src="screenshots/authentication/Login5.gif"> 
