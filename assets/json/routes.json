@@ -1,0 +1,39 @@
+[
+  {
+    "name": "Authentication",
+    "routes": [
+      {
+        "name": "Auth One(Click Mobile Number)",
+        "route": "/auth/one"
+      },
+      {
+        "name": "Login One",
+        "route": "/auth/login/one"
+      },
+      {
+        "name": "Login Two",
+        "route": "/auth/login/two"
+      },
+      {
+        "name": "Login Three",
+        "route": "/auth/login/three"
+      },
+      {
+        "name": "Login Four",
+        "route": "/auth/login/four"
+      },
+      {
+        "name": "Login Five(Animated)",
+        "route": "/auth/login/five"
+      },
+      {
+        "name": "Phone Auth(Click Continue)",
+        "route": "/auth/phone/one"
+      },
+      {
+        "name": "Sign Up One",
+        "route": "/auth/signup/one"
+      }
+    ]
+  }
+]
